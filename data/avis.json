@@ -1,0 +1,2234 @@
+[
+  {
+    "numero": 1,
+    "nom": "Oeee Oluiwe",
+    "etoiles": 5,
+    "date": "il y a 2 jours",
+    "texte": "Incroyable bonne pizza",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 20 heures\nUn grand merci pour votre superbe avis !\nNous sommes très heureux que nos pizzas vous aient plu. Toute l’équipe de Top Pizza vous dit à très bientôt 🍕 …"
+  },
+  {
+    "numero": 2,
+    "nom": "Oeee Oluiwe",
+    "etoiles": 5,
+    "date": "il y a 2 jours",
+    "texte": "Incroyable bonne pizza",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 20 heures\nUn grand merci pour votre superbe avis !\nNous sommes très heureux que nos pizzas vous aient plu. Toute l’équipe de Top Pizza vous dit à très bientôt 🍕 …"
+  },
+  {
+    "numero": 3,
+    "nom": "Aurélie Luscher",
+    "etoiles": 5,
+    "date": "il y a 2 jours",
+    "texte": "Le personnel est super aceuillant, les pizza sont très bonne. Niveau rapport qualité prix c'est nickel",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 20 heures\nMerci pour votre excellent retour ! ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous. Au plaisir de vous revoir chez Top Pizza."
+  },
+  {
+    "numero": 4,
+    "nom": "Aurélie Luscher",
+    "etoiles": 5,
+    "date": "il y a 2 jours",
+    "texte": "Le personnel est super aceuillant, les pizza sont très bonne. Niveau rapport qualité prix c'est nickel",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 20 heures\nMerci pour votre excellent retour ! ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous. Au plaisir de vous revoir chez Top Pizza."
+  },
+  {
+    "numero": 5,
+    "nom": "Clémentine Court",
+    "etoiles": 5,
+    "date": "il y a 3 jours",
+    "texte": "Les pizzas sont excellentes, à un prix défiant toute concurrence, et franchement très, très rapide, rien à dire, je recommande cet établissement! Vous avez gagné une cliente régulière, merci beaucoup 🙏🏻",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 jours\nMerci beaucoup pour votre note 5 étoiles ! Et cette belle photo 🍕\nToute l’équipe de Top Pizza vous remercie pour votre confiance. Nous sommes ravis que vous ayez apprécié nos pizzas. À très bientôt ! …"
+  },
+  {
+    "numero": 6,
+    "nom": "Clémentine Court",
+    "etoiles": 5,
+    "date": "il y a 3 jours",
+    "texte": "Les pizzas sont excellentes, à un prix défiant toute concurrence, et franchement très, très rapide, rien à dire, je recommande cet établissement! Vous avez gagné une cliente régulière, merci beaucoup 🙏🏻",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 jours\nMerci beaucoup pour votre note 5 étoiles ! Et cette belle photo 🍕\nToute l’équipe de Top Pizza vous remercie pour votre confiance. Nous sommes ravis que vous ayez apprécié nos pizzas. À très bientôt ! …"
+  },
+  {
+    "numero": 7,
+    "nom": "Nicolas Ben Slimane",
+    "etoiles": 5,
+    "date": "il y a 3 jours",
+    "texte": "Très bonne Pizza. Ambiance top",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 jours\nUn grand merci pour votre avis positif !\nCela nous fait très plaisir de savoir que vous avez aimé nos pizzas. À très bientôt chez Top Pizza !"
+  },
+  {
+    "numero": 8,
+    "nom": "Nicolas Ben Slimane",
+    "etoiles": 5,
+    "date": "il y a 3 jours",
+    "texte": "Très bonne Pizza. Ambiance top",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 jours\nUn grand merci pour votre avis positif !\nCela nous fait très plaisir de savoir que vous avez aimé nos pizzas. À très bientôt chez Top Pizza !"
+  },
+  {
+    "numero": 9,
+    "nom": "Ilir",
+    "etoiles": 5,
+    "date": "il y a 3 jours",
+    "texte": "Excellent, rare de trouver des si bonnes pizzas à ce prix là..",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 jours\nUn grand merci pour votre retour positif ⭐\nVotre satisfaction est notre priorité et nous sommes heureux d’avoir répondu à vos attentes.\nÀ très bientôt chez Top Pizza."
+  },
+  {
+    "numero": 10,
+    "nom": "Ilir",
+    "etoiles": 5,
+    "date": "il y a 3 jours",
+    "texte": "Excellent, rare de trouver des si bonnes pizzas à ce prix là..",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 jours\nUn grand merci pour votre retour positif ⭐\nVotre satisfaction est notre priorité et nous sommes heureux d’avoir répondu à vos attentes.\nÀ très bientôt chez Top Pizza."
+  },
+  {
+    "numero": 11,
+    "nom": "Romain",
+    "etoiles": 5,
+    "date": "il y a 3 jours",
+    "texte": "Très bonne pizza, accueil au top",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 jours\nMerci pour vos 5 étoiles ⭐\nÀ très vite chez Top Pizza."
+  },
+  {
+    "numero": 12,
+    "nom": "Romain",
+    "etoiles": 5,
+    "date": "il y a 3 jours",
+    "texte": "Très bonne pizza, accueil au top",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 jours\nMerci pour vos 5 étoiles ⭐\nÀ très vite chez Top Pizza."
+  },
+  {
+    "numero": 13,
+    "nom": "rafael mainer mafra",
+    "etoiles": 5,
+    "date": "il y a 3 jours",
+    "texte": "La meilleure pizza de Genève.",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 jours\nMerci chaleureusement pour vos 5 étoiles ⭐\nVotre satisfaction est notre plus belle récompense.\nNous serons ravis de vous accueillir à nouveau chez Top Pizza."
+  },
+  {
+    "numero": 14,
+    "nom": "rafael mainer mafra",
+    "etoiles": 5,
+    "date": "il y a 3 jours",
+    "texte": "La meilleure pizza de Genève.",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 jours\nMerci chaleureusement pour vos 5 étoiles ⭐\nVotre satisfaction est notre plus belle récompense.\nNous serons ravis de vous accueillir à nouveau chez Top Pizza."
+  },
+  {
+    "numero": 15,
+    "nom": "Nadim Kayne",
+    "etoiles": 5,
+    "date": "il y a 3 jours",
+    "texte": "Julio est au top! Il est rapide et pour le prix les pizzas sont excellentes.\n\nMerci julio !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 jours\nMerci beaucoup pour votre note 5 étoiles ! Et cette belle photo 🍕\nToute l’équipe de Top Pizza vous remercie pour votre confiance. Nous sommes ravis que vous ayez apprécié nos pizzas. À très bientôt !\n …"
+  },
+  {
+    "numero": 16,
+    "nom": "Nadim Kayne",
+    "etoiles": 5,
+    "date": "il y a 3 jours",
+    "texte": "Julio est au top! Il est rapide et pour le prix les pizzas sont excellentes.\n\nMerci julio !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 jours\nMerci beaucoup pour votre note 5 étoiles ! Et cette belle photo 🍕\nToute l’équipe de Top Pizza vous remercie pour votre confiance. Nous sommes ravis que vous ayez apprécié nos pizzas. À très bientôt !\n …"
+  },
+  {
+    "numero": 17,
+    "nom": "kilian mazzei",
+    "etoiles": 5,
+    "date": "il y a 4 jours",
+    "texte": "vraiment top !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 jours\nMerci infiniment pour vos 5 étoiles ⭐\nNous espérons vous revoir très bientôt pour une nouvelle expérience chez Top Pizza."
+  },
+  {
+    "numero": 18,
+    "nom": "kilian mazzei",
+    "etoiles": 5,
+    "date": "il y a 4 jours",
+    "texte": "vraiment top !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 jours\nMerci infiniment pour vos 5 étoiles ⭐\nNous espérons vous revoir très bientôt pour une nouvelle expérience chez Top Pizza."
+  },
+  {
+    "numero": 19,
+    "nom": "Car Up",
+    "etoiles": 5,
+    "date": "il y a 4 jours",
+    "texte": "Top vraiment magnifique très accueillant que ce soit le fils ou le patron, pizza de très bonne qualité. On vient de passer en a pris trois pour deux vraiment vraiment. Merci beaucoup aux deux le Turk",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 4 jours\nMerci beaucoup pour votre note 5 étoiles ! Et cette belle photo 🍕\nToute l’équipe de Top Pizza vous remercie pour votre confiance. Nous sommes ravis que vous ayez apprécié nos pizzas. À très bientôt ! …"
+  },
+  {
+    "numero": 20,
+    "nom": "Car Up",
+    "etoiles": 5,
+    "date": "il y a 4 jours",
+    "texte": "Top vraiment magnifique très accueillant que ce soit le fils ou le patron, pizza de très bonne qualité. On vient de passer en a pris trois pour deux vraiment vraiment. Merci beaucoup aux deux le Turk",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 4 jours\nMerci beaucoup pour votre note 5 étoiles ! Et cette belle photo 🍕\nToute l’équipe de Top Pizza vous remercie pour votre confiance. Nous sommes ravis que vous ayez apprécié nos pizzas. À très bientôt ! …"
+  },
+  {
+    "numero": 21,
+    "nom": "Elyes Ortiz",
+    "etoiles": 5,
+    "date": "il y a 4 jours",
+    "texte": "La pâte est croustillante et pas écœurante, très bon goût avec des produits de qualité, je recommande surtout pour les prix : 25.- pour 3 pizzas; encore une fois très bonnes",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 4 jours\nUn grand merci pour votre superbe avis !\nNous sommes très heureux que nos pizzas vous aient plu. Toute l’équipe de Top Pizza vous dit à très bientôt 🍕 …"
+  },
+  {
+    "numero": 22,
+    "nom": "Elyes Ortiz",
+    "etoiles": 5,
+    "date": "il y a 4 jours",
+    "texte": "La pâte est croustillante et pas écœurante, très bon goût avec des produits de qualité, je recommande surtout pour les prix : 25.- pour 3 pizzas; encore une fois très bonnes",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 4 jours\nUn grand merci pour votre superbe avis !\nNous sommes très heureux que nos pizzas vous aient plu. Toute l’équipe de Top Pizza vous dit à très bientôt 🍕 …"
+  },
+  {
+    "numero": 23,
+    "nom": "Wael Mashatee",
+    "etoiles": 5,
+    "date": "il y a 4 jours",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 4 jours\nMerci pour ces 5 étoiles ⭐⭐⭐⭐⭐ !\nToute l’équipe de Top Pizza vous remercie pour votre retour et se réjouit de vous accueillir à nouveau."
+  },
+  {
+    "numero": 24,
+    "nom": "Wael Mashatee",
+    "etoiles": 5,
+    "date": "il y a 4 jours",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 4 jours\nMerci pour ces 5 étoiles ⭐⭐⭐⭐⭐ !\nToute l’équipe de Top Pizza vous remercie pour votre retour et se réjouit de vous accueillir à nouveau."
+  },
+  {
+    "numero": 25,
+    "nom": "Anaïs Andrade",
+    "etoiles": 5,
+    "date": "il y a une semaine",
+    "texte": "Accueil agréable , pizza délicieuse et à prix abordable",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a une semaine\nUn grand merci pour votre superbe avis !\nNous sommes très heureux que nos pizzas vous aient plu. Toute l’équipe de Top Pizza vous dit à très bientôt 🍕\n …"
+  },
+  {
+    "numero": 26,
+    "nom": "Anaïs Andrade",
+    "etoiles": 5,
+    "date": "il y a une semaine",
+    "texte": "Accueil agréable , pizza délicieuse et à prix abordable",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a une semaine\nUn grand merci pour votre superbe avis !\nNous sommes très heureux que nos pizzas vous aient plu. Toute l’équipe de Top Pizza vous dit à très bientôt 🍕\n …"
+  },
+  {
+    "numero": 27,
+    "nom": "Cherry",
+    "etoiles": 5,
+    "date": "il y a une semaine",
+    "texte": "Merci beaucoup ! C’était très bon",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a une semaine\nMerci beaucoup pour votre note 5 étoiles ! Et cette belle photo et vidéo 🍕\nToute l’équipe de Top Pizza vous remercie pour votre confiance. Nous sommes ravis que vous ayez apprécié nos pizzas. À très bientôt ! …"
+  },
+  {
+    "numero": 28,
+    "nom": "Cherry",
+    "etoiles": 5,
+    "date": "il y a une semaine",
+    "texte": "Merci beaucoup ! C’était très bon",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a une semaine\nMerci beaucoup pour votre note 5 étoiles ! Et cette belle photo et vidéo 🍕\nToute l’équipe de Top Pizza vous remercie pour votre confiance. Nous sommes ravis que vous ayez apprécié nos pizzas. À très bientôt ! …"
+  },
+  {
+    "numero": 29,
+    "nom": "Sarah Oulad Daoud",
+    "etoiles": 5,
+    "date": "il y a une semaine",
+    "texte": "Super bon et très abordable, je recommande🍕",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a une semaine\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza !\n …"
+  },
+  {
+    "numero": 30,
+    "nom": "Sarah Oulad Daoud",
+    "etoiles": 5,
+    "date": "il y a une semaine",
+    "texte": "Super bon et très abordable, je recommande🍕",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a une semaine\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza !\n …"
+  },
+  {
+    "numero": 31,
+    "nom": "Grishm Gor",
+    "etoiles": 5,
+    "date": "il y a une semaine",
+    "texte": "Superbe combo pizza et boisson avec frites",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a une semaine\nUn grand merci pour votre avis positif !\nCela nous fait très plaisir de savoir que vous avez aimé nos pizzas. À très bientôt chez Top Pizza !"
+  },
+  {
+    "numero": 32,
+    "nom": "Grishm Gor",
+    "etoiles": 5,
+    "date": "il y a une semaine",
+    "texte": "Superbe combo pizza et boisson avec frites",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a une semaine\nUn grand merci pour votre avis positif !\nCela nous fait très plaisir de savoir que vous avez aimé nos pizzas. À très bientôt chez Top Pizza !"
+  },
+  {
+    "numero": 33,
+    "nom": "Amine Zrf",
+    "etoiles": 5,
+    "date": "il y a une semaine",
+    "texte": "Parfait merci beaucoup 💪",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a une semaine\nUn grand merci pour votre avis positif !\nCela nous fait très plaisir de savoir que vous avez aimé nos pizzas. À très bientôt chez Top Pizza !"
+  },
+  {
+    "numero": 34,
+    "nom": "Amine Zrf",
+    "etoiles": 5,
+    "date": "il y a une semaine",
+    "texte": "Parfait merci beaucoup 💪",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a une semaine\nUn grand merci pour votre avis positif !\nCela nous fait très plaisir de savoir que vous avez aimé nos pizzas. À très bientôt chez Top Pizza !"
+  },
+  {
+    "numero": 35,
+    "nom": "Ingrid Cristina",
+    "etoiles": 5,
+    "date": "il y a une semaine",
+    "texte": "très bonne pizza et excellent accueil. Merci",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a une semaine\nMerci pour ces 5 étoiles ⭐⭐⭐⭐⭐ !\nToute l’équipe de Top Pizza vous remercie pour votre retour et se réjouit de vous accueillir à nouveau."
+  },
+  {
+    "numero": 36,
+    "nom": "Ingrid Cristina",
+    "etoiles": 5,
+    "date": "il y a une semaine",
+    "texte": "très bonne pizza et excellent accueil. Merci",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a une semaine\nMerci pour ces 5 étoiles ⭐⭐⭐⭐⭐ !\nToute l’équipe de Top Pizza vous remercie pour votre retour et se réjouit de vous accueillir à nouveau."
+  },
+  {
+    "numero": 37,
+    "nom": "Carlos Ovalles",
+    "etoiles": 5,
+    "date": "il y a 2 semaines",
+    "texte": "La meilleure pizza de Genève",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 semaines\nMerci beaucoup pour votre note 5 étoiles ! Et cette belle photo 🍕\nToute l’équipe de Top Pizza vous remercie pour votre confiance. Nous sommes ravis que vous ayez apprécié nos pizzas. À très bientôt ! …"
+  },
+  {
+    "numero": 38,
+    "nom": "Carlos Ovalles",
+    "etoiles": 5,
+    "date": "il y a 2 semaines",
+    "texte": "La meilleure pizza de Genève",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 semaines\nMerci beaucoup pour votre note 5 étoiles ! Et cette belle photo 🍕\nToute l’équipe de Top Pizza vous remercie pour votre confiance. Nous sommes ravis que vous ayez apprécié nos pizzas. À très bientôt ! …"
+  },
+  {
+    "numero": 39,
+    "nom": "Luca Ricci",
+    "etoiles": 5,
+    "date": "il y a 2 semaines",
+    "texte": "La pizza est excellente!\nBelle ambiance et pizzaiolo très social !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 semaines\nMerci pour votre excellent retour ! ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous. Au plaisir de vous revoir chez Top Pizza."
+  },
+  {
+    "numero": 40,
+    "nom": "Luca Ricci",
+    "etoiles": 5,
+    "date": "il y a 2 semaines",
+    "texte": "La pizza est excellente!\nBelle ambiance et pizzaiolo très social !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 semaines\nMerci pour votre excellent retour ! ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous. Au plaisir de vous revoir chez Top Pizza."
+  },
+  {
+    "numero": 41,
+    "nom": "Eduardo Delgado",
+    "etoiles": 5,
+    "date": "il y a 2 semaines",
+    "texte": "Commandé par téléphone et passer 10 minutes après. Malgré le monde qu'il y a avait, ma pizza était déjà prête ! Très bonne, qualité prix imbattable ! Je recommande.",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 semaines\nMerci beaucoup pour votre confiance et votre note 5 étoiles ⭐\nToute l’équipe de Top Pizza est ravie de vous avoir fait plaisir. À bientôt !"
+  },
+  {
+    "numero": 42,
+    "nom": "Eduardo Delgado",
+    "etoiles": 5,
+    "date": "il y a 2 semaines",
+    "texte": "Commandé par téléphone et passer 10 minutes après. Malgré le monde qu'il y a avait, ma pizza était déjà prête ! Très bonne, qualité prix imbattable ! Je recommande.",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 semaines\nMerci beaucoup pour votre confiance et votre note 5 étoiles ⭐\nToute l’équipe de Top Pizza est ravie de vous avoir fait plaisir. À bientôt !"
+  },
+  {
+    "numero": 43,
+    "nom": "Mélanie Rodfern",
+    "etoiles": 5,
+    "date": "il y a 2 semaines",
+    "texte": "Pizza très bonne, prix vraiment bas avec boisson comprise, qualité prix imbattable.",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 semaines\nMerci infiniment pour votre superbe note !  \nNous sommes heureux que votre expérience chez Top Pizza vous ait plu. À très vite pour une prochaine pizza 🍕 …"
+  },
+  {
+    "numero": 44,
+    "nom": "Mélanie Rodfern",
+    "etoiles": 5,
+    "date": "il y a 2 semaines",
+    "texte": "Pizza très bonne, prix vraiment bas avec boisson comprise, qualité prix imbattable.",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 semaines\nMerci infiniment pour votre superbe note !  \nNous sommes heureux que votre expérience chez Top Pizza vous ait plu. À très vite pour une prochaine pizza 🍕 …"
+  },
+  {
+    "numero": 45,
+    "nom": "Arbian Murti",
+    "etoiles": 5,
+    "date": "il y a 2 semaines",
+    "texte": "Pizza deliciosa rempli du spucha avec les bon produits puro italiano four qui fait une bonne chaleur avec une puissancia Ford T bravissimo 🍕🇮🇹",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 semaines\nUn grand merci pour votre superbe avis !  \nNous sommes très heureux que nos pizzas vous aient plu. Toute l’équipe de Top Pizza vous dit à très bientôt 🍕 …"
+  },
+  {
+    "numero": 46,
+    "nom": "Arbian Murti",
+    "etoiles": 5,
+    "date": "il y a 2 semaines",
+    "texte": "Pizza deliciosa rempli du spucha avec les bon produits puro italiano four qui fait une bonne chaleur avec une puissancia Ford T bravissimo 🍕🇮🇹",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 semaines\nUn grand merci pour votre superbe avis !  \nNous sommes très heureux que nos pizzas vous aient plu. Toute l’équipe de Top Pizza vous dit à très bientôt 🍕 …"
+  },
+  {
+    "numero": 47,
+    "nom": "d. evs",
+    "etoiles": 5,
+    "date": "il y a 2 semaines",
+    "texte": "magnifique endroit pour un prix aussi bas. les pizzas sont délicieuses et le personnel du restaurant très sympa. les lieux sont propres et agréables !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 semaines\nMerci pour votre excellent retour ! ⭐⭐⭐⭐⭐  \nVotre soutien compte énormément pour nous. Au plaisir de vous revoir chez Top Pizza."
+  },
+  {
+    "numero": 48,
+    "nom": "d. evs",
+    "etoiles": 5,
+    "date": "il y a 2 semaines",
+    "texte": "magnifique endroit pour un prix aussi bas. les pizzas sont délicieuses et le personnel du restaurant très sympa. les lieux sont propres et agréables !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 semaines\nMerci pour votre excellent retour ! ⭐⭐⭐⭐⭐  \nVotre soutien compte énormément pour nous. Au plaisir de vous revoir chez Top Pizza."
+  },
+  {
+    "numero": 49,
+    "nom": "Aim Scope",
+    "etoiles": 5,
+    "date": "il y a 2 semaines",
+    "texte": "Vraiment bon et à petit prix",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 semaines\nUn grand merci pour votre avis positif !  \nCela nous fait très plaisir de savoir que vous avez aimé nos pizzas. À très bientôt chez Top Pizza !"
+  },
+  {
+    "numero": 50,
+    "nom": "Aim Scope",
+    "etoiles": 5,
+    "date": "il y a 2 semaines",
+    "texte": "Vraiment bon et à petit prix",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 2 semaines\nUn grand merci pour votre avis positif !  \nCela nous fait très plaisir de savoir que vous avez aimé nos pizzas. À très bientôt chez Top Pizza !"
+  },
+  {
+    "numero": 51,
+    "nom": "Brandon Mabeka",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "Excellente pizza",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nUn grand merci pour votre avis positif !\nCela nous fait très plaisir de savoir que vous avez aimé nos pizzas. À très bientôt chez Top Pizza !"
+  },
+  {
+    "numero": 52,
+    "nom": "Brandon Mabeka",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "Excellente pizza",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nUn grand merci pour votre avis positif !\nCela nous fait très plaisir de savoir que vous avez aimé nos pizzas. À très bientôt chez Top Pizza !"
+  },
+  {
+    "numero": 53,
+    "nom": "Romane ROUSSEAU-CARUSO",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "Un grand merci. Les pizzas sont super bonnes et étant étudiante les prix sont très appréciés.",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nMerci beaucoup pour votre confiance et votre note 5 étoiles ⭐\nToute l’équipe de Top Pizza est ravie de vous avoir fait plaisir. À bientôt !"
+  },
+  {
+    "numero": 54,
+    "nom": "Romane ROUSSEAU-CARUSO",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "Un grand merci. Les pizzas sont super bonnes et étant étudiante les prix sont très appréciés.",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nMerci beaucoup pour votre confiance et votre note 5 étoiles ⭐\nToute l’équipe de Top Pizza est ravie de vous avoir fait plaisir. À bientôt !"
+  },
+  {
+    "numero": 55,
+    "nom": "Otgonzul Tsedevdorj",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nMerci pour ces 5 étoiles ⭐⭐⭐⭐⭐ !  \nToute l’équipe de Top Pizza vous remercie pour votre retour et se réjouit de vous accueillir à nouveau."
+  },
+  {
+    "numero": 56,
+    "nom": "Otgonzul Tsedevdorj",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nMerci pour ces 5 étoiles ⭐⭐⭐⭐⭐ !  \nToute l’équipe de Top Pizza vous remercie pour votre retour et se réjouit de vous accueillir à nouveau."
+  },
+  {
+    "numero": 57,
+    "nom": "Sylvain Lecry",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nMerci pour ces 5 étoiles qui nous font très plaisir ⭐  \nToute l’équipe de Top Pizza vous remercie et espère vous revoir prochainement."
+  },
+  {
+    "numero": 58,
+    "nom": "Sylvain Lecry",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nMerci pour ces 5 étoiles qui nous font très plaisir ⭐  \nToute l’équipe de Top Pizza vous remercie et espère vous revoir prochainement."
+  },
+  {
+    "numero": 59,
+    "nom": "Abrantes Marta",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "J’ai acheté pour ma famille 4 pizzas, elles étaient délicieuses. De plus, l’équipe est géniale. Nous reviendrons c’est certain !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nUn grand merci pour votre avis positif !\nCela nous fait très plaisir de savoir que vous avez aimé nos pizzas. À très bientôt chez Top Pizza !"
+  },
+  {
+    "numero": 60,
+    "nom": "Abrantes Marta",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "J’ai acheté pour ma famille 4 pizzas, elles étaient délicieuses. De plus, l’équipe est géniale. Nous reviendrons c’est certain !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nUn grand merci pour votre avis positif !\nCela nous fait très plaisir de savoir que vous avez aimé nos pizzas. À très bientôt chez Top Pizza !"
+  },
+  {
+    "numero": 61,
+    "nom": "Jeffrey Xu",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nMerci beaucoup pour votre note 5 étoiles ! Et cette belle photo 🍕\nToute l’équipe de Top Pizza vous remercie pour votre confiance. Nous sommes ravis que vous ayez apprécié nos pizzas. À très bientôt ! …"
+  },
+  {
+    "numero": 62,
+    "nom": "Jeffrey Xu",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nMerci beaucoup pour votre note 5 étoiles ! Et cette belle photo 🍕\nToute l’équipe de Top Pizza vous remercie pour votre confiance. Nous sommes ravis que vous ayez apprécié nos pizzas. À très bientôt ! …"
+  },
+  {
+    "numero": 63,
+    "nom": "Priyanka Dasgupta",
+    "etoiles": 4,
+    "date": "il y a 3 semaines",
+    "texte": "Un endroit idéal pour des plats à emporter rapides, (très) savoureux et à prix raisonnable !\n\nEt un service impeccable :)",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nMerci infiniment pour votre superbe note !  \nNous sommes heureux que votre expérience chez Top Pizza vous ait plu. À très vite pour une prochaine pizza 🍕 …"
+  },
+  {
+    "numero": 64,
+    "nom": "Priyanka Dasgupta",
+    "etoiles": 4,
+    "date": "il y a 3 semaines",
+    "texte": "Un endroit idéal pour des plats à emporter rapides, (très) savoureux et à prix raisonnable !\n\nEt un service impeccable :)",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nMerci infiniment pour votre superbe note !  \nNous sommes heureux que votre expérience chez Top Pizza vous ait plu. À très vite pour une prochaine pizza 🍕 …"
+  },
+  {
+    "numero": 65,
+    "nom": "Dewy",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nMerci pour ces 5 étoiles ⭐⭐⭐⭐⭐ !  \nToute l’équipe de Top Pizza vous remercie pour votre retour et se réjouit de vous accueillir à nouveau."
+  },
+  {
+    "numero": 66,
+    "nom": "Dewy",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nMerci pour ces 5 étoiles ⭐⭐⭐⭐⭐ !  \nToute l’équipe de Top Pizza vous remercie pour votre retour et se réjouit de vous accueillir à nouveau."
+  },
+  {
+    "numero": 67,
+    "nom": "JimmyLRG",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "Très bon bonne accueille et seulement 7.- la margerita très avantageux pour les étudiants",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nUn grand merci pour votre avis positif !  \nCela nous fait très plaisir de savoir que vous avez aimé nos pizzas. À très bientôt chez Top Pizza !"
+  },
+  {
+    "numero": 68,
+    "nom": "JimmyLRG",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "Très bon bonne accueille et seulement 7.- la margerita très avantageux pour les étudiants",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nUn grand merci pour votre avis positif !  \nCela nous fait très plaisir de savoir que vous avez aimé nos pizzas. À très bientôt chez Top Pizza !"
+  },
+  {
+    "numero": 69,
+    "nom": "awwjerbear",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nMerci beaucoup pour votre confiance et votre note 5 étoiles ⭐  \nToute l’équipe de Top Pizza est ravie de vous avoir fait plaisir. À bientôt !"
+  },
+  {
+    "numero": 70,
+    "nom": "awwjerbear",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nMerci beaucoup pour votre confiance et votre note 5 étoiles ⭐  \nToute l’équipe de Top Pizza est ravie de vous avoir fait plaisir. À bientôt !"
+  },
+  {
+    "numero": 71,
+    "nom": "Bryceee",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nMerci pour ces 5 étoiles ⭐⭐⭐⭐⭐ !  \nToute l’équipe de Top Pizza vous remercie pour votre retour et se réjouit de vous accueillir à nouveau."
+  },
+  {
+    "numero": 72,
+    "nom": "Bryceee",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nMerci pour ces 5 étoiles ⭐⭐⭐⭐⭐ !  \nToute l’équipe de Top Pizza vous remercie pour votre retour et se réjouit de vous accueillir à nouveau."
+  },
+  {
+    "numero": 73,
+    "nom": "User P",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "Brrrrr",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nMerci infiniment pour votre superbe note !  \nNous sommes heureux que votre expérience chez Top Pizza vous ait plu. À très vite pour une prochaine pizza 🍕 …"
+  },
+  {
+    "numero": 74,
+    "nom": "User P",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "Brrrrr",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nMerci infiniment pour votre superbe note !  \nNous sommes heureux que votre expérience chez Top Pizza vous ait plu. À très vite pour une prochaine pizza 🍕 …"
+  },
+  {
+    "numero": 75,
+    "nom": "Larnaud erine",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "Pizza faite en direct, très bonne et vraiment pas chère en seulement 5min !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nMerci pour ces 5 étoiles et ce commentaire ⭐⭐⭐⭐⭐ !  \nToute l’équipe de Top Pizza vous remercie pour votre retour et se réjouit de vous accueillir à nouveau."
+  },
+  {
+    "numero": 76,
+    "nom": "Larnaud erine",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "Pizza faite en direct, très bonne et vraiment pas chère en seulement 5min !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nMerci pour ces 5 étoiles et ce commentaire ⭐⭐⭐⭐⭐ !  \nToute l’équipe de Top Pizza vous remercie pour votre retour et se réjouit de vous accueillir à nouveau."
+  },
+  {
+    "numero": 77,
+    "nom": "Florence Capt",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "Nous finissons à  l instant nos 3 pizzas...DÉLICIEUSES !!!!! Nous reviendrons!!!",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nUn grand merci pour votre superbe avis !  \nNous sommes très heureux que nos pizzas vous aient plu. Toute l’équipe de Top Pizza vous dit à très bientôt 🍕 …"
+  },
+  {
+    "numero": 78,
+    "nom": "Florence Capt",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "Nous finissons à  l instant nos 3 pizzas...DÉLICIEUSES !!!!! Nous reviendrons!!!",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nUn grand merci pour votre superbe avis !  \nNous sommes très heureux que nos pizzas vous aient plu. Toute l’équipe de Top Pizza vous dit à très bientôt 🍕 …"
+  },
+  {
+    "numero": 79,
+    "nom": "mehdi",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nUn grand merci pour votre avis positif !  \nCela nous fait très plaisir de savoir que vous avez aimé nos pizzas. À très bientôt chez Top Pizza !"
+  },
+  {
+    "numero": 80,
+    "nom": "mehdi",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nUn grand merci pour votre avis positif !  \nCela nous fait très plaisir de savoir que vous avez aimé nos pizzas. À très bientôt chez Top Pizza !"
+  },
+  {
+    "numero": 81,
+    "nom": "Javier Alejandro Murillo Cataño",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nMerci pour ces 5 étoiles qui nous font très plaisir ⭐  \nToute l’équipe de Top Pizza vous remercie et espère vous revoir prochainement."
+  },
+  {
+    "numero": 82,
+    "nom": "Javier Alejandro Murillo Cataño",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nMerci pour ces 5 étoiles qui nous font très plaisir ⭐  \nToute l’équipe de Top Pizza vous remercie et espère vous revoir prochainement."
+  },
+  {
+    "numero": 83,
+    "nom": "Elias Souid",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nUn grand merci pour votre superbe note ⭐⭐⭐⭐⭐ !\n\nToute l’équipe de Top Pizza est très heureuse de savoir que vous avez apprécié votre expérience. Votre soutien nous motive chaque jour à continuer de vous proposer des pizzas de qualité.\n\nAu plaisir de vous revoir très bientôt chez Top Pizza ! 🍕"
+  },
+  {
+    "numero": 84,
+    "nom": "Elias Souid",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nUn grand merci pour votre superbe note ⭐⭐⭐⭐⭐ !\n\nToute l’équipe de Top Pizza est très heureuse de savoir que vous avez apprécié votre expérience. Votre soutien nous motive chaque jour à continuer de vous proposer des pizzas de qualité.\n\nAu plaisir de vous revoir très bientôt chez Top Pizza ! 🍕"
+  },
+  {
+    "numero": 85,
+    "nom": "Paul Tapsoba",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nMerci beaucoup pour votre avis et pour ces 5 étoiles ! ⭐⭐⭐⭐⭐\nNous sommes très heureux que vous ayez apprécié votre expérience.\nAu plaisir de vous revoir bientôt.\n\n— L’équipe Top Pizza"
+  },
+  {
+    "numero": 86,
+    "nom": "Paul Tapsoba",
+    "etoiles": 5,
+    "date": "il y a 3 semaines",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 3 semaines\nMerci beaucoup pour votre avis et pour ces 5 étoiles ! ⭐⭐⭐⭐⭐\nNous sommes très heureux que vous ayez apprécié votre expérience.\nAu plaisir de vous revoir bientôt.\n\n— L’équipe Top Pizza"
+  },
+  {
+    "numero": 87,
+    "nom": "Nora Chabal",
+    "etoiles": 5,
+    "date": "il y a 4 semaines",
+    "texte": "Rapport qualité/prix au top !! Je recommande",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 4 semaines\nMerci beaucoup pour votre avis et pour ces 5 étoiles ! ⭐⭐⭐⭐⭐\nNous sommes très heureux que vous ayez apprécié votre expérience.\nAu plaisir de vous revoir bientôt.\n\n— L’équipe Top Pizza"
+  },
+  {
+    "numero": 88,
+    "nom": "Nora Chabal",
+    "etoiles": 5,
+    "date": "il y a 4 semaines",
+    "texte": "Rapport qualité/prix au top !! Je recommande",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 4 semaines\nMerci beaucoup pour votre avis et pour ces 5 étoiles ! ⭐⭐⭐⭐⭐\nNous sommes très heureux que vous ayez apprécié votre expérience.\nAu plaisir de vous revoir bientôt.\n\n— L’équipe Top Pizza"
+  },
+  {
+    "numero": 89,
+    "nom": "Chabal 27",
+    "etoiles": 5,
+    "date": "il y a 4 semaines",
+    "texte": "Super rapport qualité prix !! Staff très gentil. Je recommande à 100%",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 4 semaines\nMerci beaucoup pour votre avis et pour ces 5 étoiles ! ⭐⭐⭐⭐⭐\nNous sommes très heureux que vous ayez apprécié votre expérience.\nAu plaisir de vous revoir bientôt.\n\n— L’équipe Top Pizza"
+  },
+  {
+    "numero": 90,
+    "nom": "Chabal 27",
+    "etoiles": 5,
+    "date": "il y a 4 semaines",
+    "texte": "Super rapport qualité prix !! Staff très gentil. Je recommande à 100%",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 4 semaines\nMerci beaucoup pour votre avis et pour ces 5 étoiles ! ⭐⭐⭐⭐⭐\nNous sommes très heureux que vous ayez apprécié votre expérience.\nAu plaisir de vous revoir bientôt.\n\n— L’équipe Top Pizza"
+  },
+  {
+    "numero": 91,
+    "nom": "Ahmed B",
+    "etoiles": 5,
+    "date": "il y a 4 semaines",
+    "texte": "Très belle découverte en plein cœur de Plainpalais, la pizzeria vient tout juste d'ouvrir mais a tout pour devenir la référence du coin, voire de Genève.\nExcellente pizza et rapport qualité prix imbattable (7chf la margherita !)\nTrès bien accueilli par Tullio et Sarah qui sont fort sympathiques, je reviendrai très vite !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 4 semaines\nMerci beaucoup pour votre avis et pour ces 5 étoiles ! ⭐⭐⭐⭐⭐\nNous sommes très heureux que vous ayez apprécié votre expérience.\nAu plaisir de vous revoir bientôt.\n\n— L’équipe Top Pizza"
+  },
+  {
+    "numero": 92,
+    "nom": "Ahmed B",
+    "etoiles": 5,
+    "date": "il y a 4 semaines",
+    "texte": "Très belle découverte en plein cœur de Plainpalais, la pizzeria vient tout juste d'ouvrir mais a tout pour devenir la référence du coin, voire de Genève.\nExcellente pizza et rapport qualité prix imbattable (7chf la margherita !)\nTrès bien accueilli par Tullio et Sarah qui sont fort sympathiques, je reviendrai très vite !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 4 semaines\nMerci beaucoup pour votre avis et pour ces 5 étoiles ! ⭐⭐⭐⭐⭐\nNous sommes très heureux que vous ayez apprécié votre expérience.\nAu plaisir de vous revoir bientôt.\n\n— L’équipe Top Pizza"
+  },
+  {
+    "numero": 93,
+    "nom": "Pamela Cruzeta",
+    "etoiles": 5,
+    "date": "il y a 4 semaines",
+    "texte": "Hyper bonne 😋 trois propres 👍",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 4 semaines\nMerci beaucoup pour votre avis et pour ces 5 étoiles ! ⭐⭐⭐⭐⭐\nNous sommes très heureux que vous ayez apprécié votre expérience.\nAu plaisir de vous revoir bientôt.\n\n— L’équipe Top Pizza"
+  },
+  {
+    "numero": 94,
+    "nom": "Pamela Cruzeta",
+    "etoiles": 5,
+    "date": "il y a 4 semaines",
+    "texte": "Hyper bonne 😋 trois propres 👍",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 4 semaines\nMerci beaucoup pour votre avis et pour ces 5 étoiles ! ⭐⭐⭐⭐⭐\nNous sommes très heureux que vous ayez apprécié votre expérience.\nAu plaisir de vous revoir bientôt.\n\n— L’équipe Top Pizza"
+  },
+  {
+    "numero": 95,
+    "nom": "Thomas P.",
+    "etoiles": 5,
+    "date": "il y a 4 semaines",
+    "texte": "Supers pizzas savoureuses rapidement préparées, bon marché et pizzaiolo très souriant!! A recommander!!",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 4 semaines\nMerci beaucoup pour votre avis et pour ces 5 étoiles ! ⭐⭐⭐⭐⭐  \nNous sommes très heureux que vous ayez apprécié votre expérience.  \nAu plaisir de vous revoir bientôt.\n\n— L’équipe Top Pizza"
+  },
+  {
+    "numero": 96,
+    "nom": "Thomas P.",
+    "etoiles": 5,
+    "date": "il y a 4 semaines",
+    "texte": "Supers pizzas savoureuses rapidement préparées, bon marché et pizzaiolo très souriant!! A recommander!!",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 4 semaines\nMerci beaucoup pour votre avis et pour ces 5 étoiles ! ⭐⭐⭐⭐⭐  \nNous sommes très heureux que vous ayez apprécié votre expérience.  \nAu plaisir de vous revoir bientôt.\n\n— L’équipe Top Pizza"
+  },
+  {
+    "numero": 97,
+    "nom": "Maria Vitoria Andrade Vermelho",
+    "etoiles": 5,
+    "date": "il y a 4 semaines",
+    "texte": "La meilleure pizza de Genève ! J'y retournerai sans hésiter ! Le propriétaire, originaire du Minas Gerais, est vraiment sympa et la pizza est incroyable. Quant au prix, il est imbattable.",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 4 semaines\nMerci infiniment pour votre avis et votre note de 5 étoiles ⭐⭐⭐⭐⭐️\n\nVotre soutien nous est précieux 🙏\n\nAu plaisir de vous revoir chez Top Pizza !\nTraduit par Google ・ Voir l'original (portugais)"
+  },
+  {
+    "numero": 98,
+    "nom": "Maria Vitoria Andrade Vermelho",
+    "etoiles": 5,
+    "date": "il y a 4 semaines",
+    "texte": "La meilleure pizza de Genève ! J'y retournerai sans hésiter ! Le propriétaire, originaire du Minas Gerais, est vraiment sympa et la pizza est incroyable. Quant au prix, il est imbattable.",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a 4 semaines\nMerci infiniment pour votre avis et votre note de 5 étoiles ⭐⭐⭐⭐⭐️\n\nVotre soutien nous est précieux 🙏\n\nAu plaisir de vous revoir chez Top Pizza !\nTraduit par Google ・ Voir l'original (portugais)"
+  },
+  {
+    "numero": 99,
+    "nom": "Lume zeneli",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Pizza au top ! Les 2 employés sont super accueillants, les pizza sont bien garnies et ça en vaut largement la peine d’y aller et goûter leurs pizzas !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 100,
+    "nom": "Lume zeneli",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Pizza au top ! Les 2 employés sont super accueillants, les pizza sont bien garnies et ça en vaut largement la peine d’y aller et goûter leurs pizzas !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 101,
+    "nom": "hichem niss",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 102,
+    "nom": "hichem niss",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 103,
+    "nom": "Wassim Rkibi",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Professionnel de la pizza !! Un vrai passionné qui aime son métier et le résultat est sans appel. Excellente Pizza.",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 104,
+    "nom": "Wassim Rkibi",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Professionnel de la pizza !! Un vrai passionné qui aime son métier et le résultat est sans appel. Excellente Pizza.",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 105,
+    "nom": "Elyo Delrieu",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Parfait super bon la clientèle super gentille pas cher je recommande énormément",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 106,
+    "nom": "Elyo Delrieu",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Parfait super bon la clientèle super gentille pas cher je recommande énormément",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 107,
+    "nom": "Miguel Rodrigues",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "3 em fois que je viens et les pizzas sont trop bonne et pas chères! Je recommande fort",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 108,
+    "nom": "Miguel Rodrigues",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "3 em fois que je viens et les pizzas sont trop bonne et pas chères! Je recommande fort",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 109,
+    "nom": "jordan",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Très bonne sauce piquante",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️ \nVotre soutien compte énormément pour nous 🙏\nOui notre sauce piquante maison est exceptionnelle. \nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 110,
+    "nom": "jordan",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Très bonne sauce piquante",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️ \nVotre soutien compte énormément pour nous 🙏\nOui notre sauce piquante maison est exceptionnelle. \nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 111,
+    "nom": "Haben Tekle",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 112,
+    "nom": "Haben Tekle",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 113,
+    "nom": "Julien Dal Col",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Pizza savoureuse et personnel agréable. Je recommande chaleureusement.\n\nÀ emporter uniquement (pour le moment ?)",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour vos commentaires et vos 5 étoiles ⭐⭐⭐⭐⭐\n\nPour le moment, nous proposons uniquement la vente à emporter, mais nous ajouterons très probablement des tables cette année.\n\nVotre soutien nous touche énormément 🙏\n\nNous avons hâte de vous revoir chez Top Pizza !\nTraduit par Google ・ Voir l'original (anglais)"
+  },
+  {
+    "numero": 114,
+    "nom": "Julien Dal Col",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Pizza savoureuse et personnel agréable. Je recommande chaleureusement.\n\nÀ emporter uniquement (pour le moment ?)",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour vos commentaires et vos 5 étoiles ⭐⭐⭐⭐⭐\n\nPour le moment, nous proposons uniquement la vente à emporter, mais nous ajouterons très probablement des tables cette année.\n\nVotre soutien nous touche énormément 🙏\n\nNous avons hâte de vous revoir chez Top Pizza !\nTraduit par Google ・ Voir l'original (anglais)"
+  },
+  {
+    "numero": 115,
+    "nom": "arno amadori",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Très bonne pizza margherita a 7f très rentable",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza !\n …"
+  },
+  {
+    "numero": 116,
+    "nom": "arno amadori",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Très bonne pizza margherita a 7f très rentable",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza !\n …"
+  },
+  {
+    "numero": 117,
+    "nom": "Кирилл",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza !\n …"
+  },
+  {
+    "numero": 118,
+    "nom": "Кирилл",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza !\n …"
+  },
+  {
+    "numero": 119,
+    "nom": "lorain julmy",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 120,
+    "nom": "lorain julmy",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 121,
+    "nom": "Luisa Naranjo",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Excellentes pizzas",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 122,
+    "nom": "Luisa Naranjo",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Excellentes pizzas",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 123,
+    "nom": "bruno rob",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Pizzeria bien placé, bonne et pas chère",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 124,
+    "nom": "bruno rob",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Pizzeria bien placé, bonne et pas chère",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 125,
+    "nom": "Animation rebu",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Incroyable, les pizzas sont trop bonnes",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 126,
+    "nom": "Animation rebu",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Incroyable, les pizzas sont trop bonnes",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 127,
+    "nom": "Rosalina Sugar Art",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 128,
+    "nom": "Rosalina Sugar Art",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 129,
+    "nom": "Olga CP",
+    "etoiles": 4,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 4 étoiles ⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 130,
+    "nom": "Olga CP",
+    "etoiles": 4,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 4 étoiles ⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 131,
+    "nom": "Laure Pagella",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Trs bon rapport qualite-prix! je recommande!",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 132,
+    "nom": "Laure Pagella",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Trs bon rapport qualite-prix! je recommande!",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐️\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 133,
+    "nom": "Sav P",
+    "etoiles": 4,
+    "date": "il y a un mois",
+    "texte": "Personnes très gentilles, prix super accessibles avec de la nourriture de qualité.",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 4 étoiles ⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 134,
+    "nom": "Sav P",
+    "etoiles": 4,
+    "date": "il y a un mois",
+    "texte": "Personnes très gentilles, prix super accessibles avec de la nourriture de qualité.",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 4 étoiles ⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 135,
+    "nom": "Moïse Tefy",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Excellentes pizzas! 👌🏽 🍕 Rien à dire, je vous recommande d’y aller pour faire des soirées pizzas! …",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 136,
+    "nom": "Moïse Tefy",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Excellentes pizzas! 👌🏽 🍕 Rien à dire, je vous recommande d’y aller pour faire des soirées pizzas! …",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 137,
+    "nom": "Ugo Semat",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Niveau qualité-prix super !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 138,
+    "nom": "Ugo Semat",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Niveau qualité-prix super !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 139,
+    "nom": "Mel Rt",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Super expérience chez Top Pizza à Genève ! L’endroit est vraiment sympa, l’ambiance est agréable et on s’y sent bien.\n\nJ’ai testé le burger et franchement… incroyable 😍 La viande était excellente, bien juteuse, parfaitement cuite et pleine de goût. On sent la qualité des produits.\n\nJe recommande sans hésiter, j’y retournerai avec plaisir ! 🍔✨",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 140,
+    "nom": "Mel Rt",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Super expérience chez Top Pizza à Genève ! L’endroit est vraiment sympa, l’ambiance est agréable et on s’y sent bien.\n\nJ’ai testé le burger et franchement… incroyable 😍 La viande était excellente, bien juteuse, parfaitement cuite et pleine de goût. On sent la qualité des produits.\n\nJe recommande sans hésiter, j’y retournerai avec plaisir ! 🍔✨",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 141,
+    "nom": "ilan Sherifi",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Le pizzaiolo est excellent\nLes pizzas sont excellentes\nJe recommande cette pizzeria",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 142,
+    "nom": "ilan Sherifi",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Le pizzaiolo est excellent\nLes pizzas sont excellentes\nJe recommande cette pizzeria",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 143,
+    "nom": "Joseph Lee",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "La pizza est d'une qualité incroyable et d'un excellent rapport qualité-prix. Le propriétaire est super sympa. Je recommande vivement pour un bon dîner ! 😁👍",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 144,
+    "nom": "Joseph Lee",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "La pizza est d'une qualité incroyable et d'un excellent rapport qualité-prix. Le propriétaire est super sympa. Je recommande vivement pour un bon dîner ! 😁👍",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 145,
+    "nom": "Mathieu Faure",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Super endroit pour attrapper des pizzas à l'emporter, rapide efficace et surtout délicieux 😋. Sûrement les plus abordables de genève en plus !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 146,
+    "nom": "Mathieu Faure",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Super endroit pour attrapper des pizzas à l'emporter, rapide efficace et surtout délicieux 😋. Sûrement les plus abordables de genève en plus !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 147,
+    "nom": "Cameron B.",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 148,
+    "nom": "Cameron B.",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 149,
+    "nom": "Sza Rey",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 150,
+    "nom": "Sza Rey",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 151,
+    "nom": "Ange",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Magnifique accueil, service rapide et pizzas excellentes.",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 152,
+    "nom": "Ange",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Magnifique accueil, service rapide et pizzas excellentes.",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 153,
+    "nom": "Harry Rocklinger",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "La copine est contente de la margherita ! 🤌",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 154,
+    "nom": "Harry Rocklinger",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "La copine est contente de la margherita ! 🤌",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 155,
+    "nom": "Ilyas Gratziu",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 156,
+    "nom": "Ilyas Gratziu",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 157,
+    "nom": "Marc Orel",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 158,
+    "nom": "Marc Orel",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 159,
+    "nom": "gtim74",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "À mon arrivée en ce doux lieux de repos, ma présence fut traitée tel un vassal arborent ses terres Saintes. Durant l'attente de mon mets, une symphonie orchestral typiquement américo-latine, me chantait des louanges. Une fois mon festin dressé. Dans ma poche ce manifestait uniquement quelques écus gaulois qu'accepta le chef malgré sont taux de change désavantageux.\n\nEn bref la pizza est très bonne quoi, je recommande...",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 160,
+    "nom": "gtim74",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "À mon arrivée en ce doux lieux de repos, ma présence fut traitée tel un vassal arborent ses terres Saintes. Durant l'attente de mon mets, une symphonie orchestral typiquement américo-latine, me chantait des louanges. Une fois mon festin dressé. Dans ma poche ce manifestait uniquement quelques écus gaulois qu'accepta le chef malgré sont taux de change désavantageux.\n\nEn bref la pizza est très bonne quoi, je recommande...",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 161,
+    "nom": "Aiman Melon",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Meilleur pizza de Genève",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 162,
+    "nom": "Aiman Melon",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Meilleur pizza de Genève",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 163,
+    "nom": "Sarah Jaquier",
+    "etoiles": 4,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 164,
+    "nom": "Sarah Jaquier",
+    "etoiles": 4,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 165,
+    "nom": "Tatiana Alves",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Trop bon ! Et pas cher, très bonne acceuil !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 166,
+    "nom": "Tatiana Alves",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Trop bon ! Et pas cher, très bonne acceuil !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 167,
+    "nom": "João Marques",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Ambiance incroyable et nourriture excellente.",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 168,
+    "nom": "João Marques",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Ambiance incroyable et nourriture excellente.",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 169,
+    "nom": "David Placci",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Franchement délicieux et prix imbattables!",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 170,
+    "nom": "David Placci",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Franchement délicieux et prix imbattables!",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 171,
+    "nom": "Amp",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza !\n …"
+  },
+  {
+    "numero": 172,
+    "nom": "Amp",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza !\n …"
+  },
+  {
+    "numero": 173,
+    "nom": "Mr. Adamah",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Incroyable 🤩j’ai pris une pizza là-bas vers 19h30 qu’on m’a gentiment offert que dire de cette pizza incroyable la meilleure que j’ai manger depuis longtemps et l’accueil 10/10 adresse a foncer 🥰🥰",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza !\n …"
+  },
+  {
+    "numero": 174,
+    "nom": "Mr. Adamah",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Incroyable 🤩j’ai pris une pizza là-bas vers 19h30 qu’on m’a gentiment offert que dire de cette pizza incroyable la meilleure que j’ai manger depuis longtemps et l’accueil 10/10 adresse a foncer 🥰🥰",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza !\n …"
+  },
+  {
+    "numero": 175,
+    "nom": "Jordan Bengui",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza !\n …"
+  },
+  {
+    "numero": 176,
+    "nom": "Jordan Bengui",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza !\n …"
+  },
+  {
+    "numero": 177,
+    "nom": "Mario TULLIO",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 178,
+    "nom": "Mario TULLIO",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 179,
+    "nom": "Eryca Bispo",
+    "etoiles": 5,
+    "date": "Modifié il y a un mois",
+    "texte": "Les pizzas étaient vraiment délicieuses, le monsieur qui tient le magasin est très sympathique et c’est juste à côté de l’uni mail. Franchement je recommande 💯",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 180,
+    "nom": "Eryca Bispo",
+    "etoiles": 5,
+    "date": "Modifié il y a un mois",
+    "texte": "Les pizzas étaient vraiment délicieuses, le monsieur qui tient le magasin est très sympathique et c’est juste à côté de l’uni mail. Franchement je recommande 💯",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 181,
+    "nom": "Simaozinho",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Exceptionnel !\nAutant l'accueil que les Pizza !\nLa prochaine fois on va goûter les burger sans aucun doute 😁",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 182,
+    "nom": "Simaozinho",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Exceptionnel !\nAutant l'accueil que les Pizza !\nLa prochaine fois on va goûter les burger sans aucun doute 😁",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 183,
+    "nom": "Vandecy Aguiar",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Chez Top Pizza vous allez trouver je meilleur qualité/prix de toute la Suisse.\nDes pizzas incroyables, dommages que pour l’instant ils font que des pizzas à emporter.\nPizzas incriyablement délicieuses.",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 184,
+    "nom": "Vandecy Aguiar",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Chez Top Pizza vous allez trouver je meilleur qualité/prix de toute la Suisse.\nDes pizzas incroyables, dommages que pour l’instant ils font que des pizzas à emporter.\nPizzas incriyablement délicieuses.",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 185,
+    "nom": "Yoel Issak",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Pizza délicieuse",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 186,
+    "nom": "Yoel Issak",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Pizza délicieuse",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 187,
+    "nom": "Mickael Lopez",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Magnifique, très gentil et un régal",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 188,
+    "nom": "Mickael Lopez",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Magnifique, très gentil et un régal",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 189,
+    "nom": "Mohamed Kou28",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Franchement je conseil la pâte est bien cuite les garnitures son super bon avec un gérant ponctuel …je recommande 👍 le prix est super abordable sur les menus.",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 190,
+    "nom": "Mohamed Kou28",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Franchement je conseil la pâte est bien cuite les garnitures son super bon avec un gérant ponctuel …je recommande 👍 le prix est super abordable sur les menus.",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 191,
+    "nom": "Julien Christensen",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Superbe pizzeria, les pizzas étaient  délicieuse. Je recommande fortement",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 192,
+    "nom": "Julien Christensen",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Superbe pizzeria, les pizzas étaient  délicieuse. Je recommande fortement",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 193,
+    "nom": "Enzo Rosselli",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Propre et bon",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 194,
+    "nom": "Enzo Rosselli",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Propre et bon",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 195,
+    "nom": "PHISKO",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Pizza incroyable au prix imbattable!",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza !\n …"
+  },
+  {
+    "numero": 196,
+    "nom": "PHISKO",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Pizza incroyable au prix imbattable!",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza !\n …"
+  },
+  {
+    "numero": 197,
+    "nom": "Yonatan Habte",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "C’est délicieux et pas chère je vous conseille vraiment ce restaurant",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 198,
+    "nom": "Yonatan Habte",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "C’est délicieux et pas chère je vous conseille vraiment ce restaurant",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 199,
+    "nom": "Biniam Gherezgiher",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 200,
+    "nom": "Biniam Gherezgiher",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 201,
+    "nom": "Rodrigo Rodrigues",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Sans aucun doute la meilleure pizza que j’ai mangée à Genève ! La pâte est parfaite, légère et croustillante juste comme il faut, et les ingrédients sont frais et pleins de saveur. On sent vraiment la qualité à chaque bouchée.",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 202,
+    "nom": "Rodrigo Rodrigues",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Sans aucun doute la meilleure pizza que j’ai mangée à Genève ! La pâte est parfaite, légère et croustillante juste comme il faut, et les ingrédients sont frais et pleins de saveur. On sent vraiment la qualité à chaque bouchée.",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 203,
+    "nom": "veronica forin",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "In avis s’insère et transparent c’est la meilleure pizza de Geneve.🫡🫡",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza !\n …"
+  },
+  {
+    "numero": 204,
+    "nom": "veronica forin",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "In avis s’insère et transparent c’est la meilleure pizza de Geneve.🫡🫡",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza !\n …"
+  },
+  {
+    "numero": 205,
+    "nom": "Gratinado express",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "La meilleure pizza de Geneve!👏👏👏👏 …",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 206,
+    "nom": "Gratinado express",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "La meilleure pizza de Geneve!👏👏👏👏 …",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 207,
+    "nom": "paulo carmon",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 208,
+    "nom": "paulo carmon",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 209,
+    "nom": "Paulo Carmon",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 210,
+    "nom": "Paulo Carmon",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 211,
+    "nom": "R. L.",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "En passant je me suis arrêtée avec mon fils, j’ai pris une pizza marguerite pour goûter. Nous étions surpris en bien car la pizza est délicieuse. Nous reviendrons sans hésiter ☺️ + le Monsieur qui tient l’établissement est très sympathique! Je recommande!",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 212,
+    "nom": "R. L.",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "En passant je me suis arrêtée avec mon fils, j’ai pris une pizza marguerite pour goûter. Nous étions surpris en bien car la pizza est délicieuse. Nous reviendrons sans hésiter ☺️ + le Monsieur qui tient l’établissement est très sympathique! Je recommande!",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 213,
+    "nom": "Kaiky Carmon",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Haut, haut, haut !!!",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 214,
+    "nom": "Kaiky Carmon",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Haut, haut, haut !!!",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 215,
+    "nom": "Ruben Melo",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Très bon restaurant ! Large variété de pizzas et autres options de fast-food. Les ingrédients sont de bonne qualité, la pâte est savoureuse et bien préparée. Service rapide et personnel accueillant. Excellent rapport qualité-prix. Je recommande !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 216,
+    "nom": "Ruben Melo",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Très bon restaurant ! Large variété de pizzas et autres options de fast-food. Les ingrédients sont de bonne qualité, la pâte est savoureuse et bien préparée. Service rapide et personnel accueillant. Excellent rapport qualité-prix. Je recommande !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 217,
+    "nom": "Leticia Beatriz",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 218,
+    "nom": "Leticia Beatriz",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 219,
+    "nom": "saranyan rj",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Des pizzas incroyables ! La pâte est parfaite, légère et bien croustillante, avec une garniture généreuse et des ingrédients frais de qualité. Chaque bouchée est un vrai régal.\n\nOn sent le savoir-faire et la passion dans chaque pizza. Le service est rapide et l’accueil toujours chaleureux.\n\nJe recommande sans hésiter, sûrement l’une des meilleures pizzas que j’ai mangées !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 220,
+    "nom": "saranyan rj",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Des pizzas incroyables ! La pâte est parfaite, légère et bien croustillante, avec une garniture généreuse et des ingrédients frais de qualité. Chaque bouchée est un vrai régal.\n\nOn sent le savoir-faire et la passion dans chaque pizza. Le service est rapide et l’accueil toujours chaleureux.\n\nJe recommande sans hésiter, sûrement l’une des meilleures pizzas que j’ai mangées !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 221,
+    "nom": "Mikael Barriviera",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 222,
+    "nom": "Mikael Barriviera",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 223,
+    "nom": "Bruno Brusin",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 224,
+    "nom": "Bruno Brusin",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 225,
+    "nom": "Danilo A-O",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza !\n …"
+  },
+  {
+    "numero": 226,
+    "nom": "Danilo A-O",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza !\n …"
+  },
+  {
+    "numero": 227,
+    "nom": "FELIPE KRAUTLER",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Endroit très agréable et pizzas délicieuses !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 228,
+    "nom": "FELIPE KRAUTLER",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Endroit très agréable et pizzas délicieuses !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 229,
+    "nom": "Marilei de Jesus pereira Schlickmann",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 230,
+    "nom": "Marilei de Jesus pereira Schlickmann",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 231,
+    "nom": "carlos calmon",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Tout est parfait 👏👏👏",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 232,
+    "nom": "carlos calmon",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Tout est parfait 👏👏👏",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 233,
+    "nom": "Tulio",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 234,
+    "nom": "Tulio",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 235,
+    "nom": "blendin misini",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Franchement Top Pizza  porte super  bien son nom le TOP ! Ça se voit direct que les produits sont faits maison, tout a du goût et c’est super bien préparé. Les pizzas sont bien garnies, la pâte est excellente, et niveau qualité c’est vraiment au-dessus. En plus les prix sont juste imbattables : 10 francs la pizza + la boisson…franchement je recommande à 100% !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 236,
+    "nom": "blendin misini",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Franchement Top Pizza  porte super  bien son nom le TOP ! Ça se voit direct que les produits sont faits maison, tout a du goût et c’est super bien préparé. Les pizzas sont bien garnies, la pâte est excellente, et niveau qualité c’est vraiment au-dessus. En plus les prix sont juste imbattables : 10 francs la pizza + la boisson…franchement je recommande à 100% !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 237,
+    "nom": "Ruben Abrantes",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "C’était top j’ai très bien manger et hâte de revenir déjà. Un grand merci à vous de faire de tel chose à des prix casser et de qualité à bientôt Top Pizza 😋 …",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 238,
+    "nom": "Ruben Abrantes",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "C’était top j’ai très bien manger et hâte de revenir déjà. Un grand merci à vous de faire de tel chose à des prix casser et de qualité à bientôt Top Pizza 😋 …",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 239,
+    "nom": "Loyse Lanz",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Délicieuses pizzas avec un prix plus que compétitif ! Et un service très sympathique.",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 240,
+    "nom": "Loyse Lanz",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Délicieuses pizzas avec un prix plus que compétitif ! Et un service très sympathique.",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 241,
+    "nom": "Antoine Burguburu",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Super bonne pizza et pas cher ! Je recommande",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 242,
+    "nom": "Antoine Burguburu",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Super bonne pizza et pas cher ! Je recommande",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 243,
+    "nom": "Top Pizza",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 244,
+    "nom": "Top Pizza",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 245,
+    "nom": "Adriano Da silva",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Franchement surpris du Top burger Classic ! Je reviendrai ça c’est sûr !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 246,
+    "nom": "Adriano Da silva",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Franchement surpris du Top burger Classic ! Je reviendrai ça c’est sûr !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 247,
+    "nom": "Liliana Abrantes",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Ce fast food en vaut plus que la peine !\nTous les plats sont fait sur le moment, très délicieux avec beaucoup de goût et pas cher.\nJe recommande à 100%\n\nÀ bientôt top pizza !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  },
+  {
+    "numero": 248,
+    "nom": "Liliana Abrantes",
+    "etoiles": 5,
+    "date": "il y a un mois",
+    "texte": "Ce fast food en vaut plus que la peine !\nTous les plats sont fait sur le moment, très délicieux avec beaucoup de goût et pas cher.\nJe recommande à 100%\n\nÀ bientôt top pizza !",
+    "photos": [],
+    "reponse_proprietaire": "Réponse du propriétaire il y a un mois\nUn grand merci pour votre retour et vos 5 étoiles ⭐⭐⭐⭐⭐\nVotre soutien compte énormément pour nous 🙏\nNous avons hâte de vous revoir chez Top Pizza ! …"
+  }
+]
